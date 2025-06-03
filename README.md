@@ -1,0 +1,2 @@
+The current project is to put in practice the knowledge learn at the HTML part of the Odin Project course.
+to do: file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
