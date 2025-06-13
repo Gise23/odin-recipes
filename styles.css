@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+
+img{
+   display:inline-block 
+}
+
+h1 {
+    color:red;
+}
+
+button {
+    display:inline-block 
+}
+
+.bhome {
+    color:rgb(151, 205, 42);
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
