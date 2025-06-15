@@ -1,25 +1,79 @@
 *{
-    padding:0;
+    padding:8px;
     margin:0;
     box-sizing:border-box;
 }
 
-
-img{
-   display:inline-block 
+body{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h1 {
-    color:red;
+#tittles{
+    color:rgb(51, 65, 2);
+    text-align: center;
+    font-style: italic;
+}
+
+.index{
+    color:rgb(7, 123, 83);
+}
+
+h1#zucchini {
+    color:orange;
+    font-weight:bold;
+    text-align: center;
+    font-style: italic;
+}
+
+.orange{
+    color:orange;
+    font-weight: bold;
+}
+
+
+.ingredients-cont{
+    display: flex;
+    gap: 5px;
+    align-items: flex-start;
+}
+
+.img-bx, .list-bx{
+    font-size: 16px;
+}
+
+.list-bx {
+  max-width: 400px;
+  border:7px solid rgb(66, 82, 9);
+  padding-left:40px;
+  padding-right: 40px;
+  margin-top:15px;
+  margin-left:2px;
+  box-sizing: border-box;
+}
+
+.img-bx img {
+  display: block;
+  width: 400px;
+  height: 495px;
+}
+
+.slogan{
+    font-weight:bold;
+    font-size:20px;
+    color:rgb(66, 82, 9);
+    font-style: italic;
 }
 
 button {
-    display:inline-block 
+    display:block;
+    margin: 0 auto;
+    background-color: rgb(66, 82, 9);
 }
 
 .bhome {
-    color:rgb(151, 205, 42);
-    background-color: black;
-    margin-left: auto;
-    margin-right: auto;
+    color:white;
+    size: 80px;
+    font-weight:bold;
+    font-size:16px;
+    padding:5px;
 }
