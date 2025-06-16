@@ -6,6 +6,13 @@
 
 body{
     font-family: Tahoma, Geneva, Verdana, sans-serif;
+    padding:0 80px;
+}
+
+.margin{
+    margin:0 auto;
+    max-width: 1000px;
+    padding: 0 20px;
 }
 
 #tittles{
@@ -25,11 +32,22 @@ h1#zucchini {
     font-style: italic;
 }
 
+h1#pesto {
+    color:rgb(82, 114, 19);
+    font-weight:bold;
+    text-align: center;
+    font-style: italic;
+}
+
 .orange{
     color:orange;
     font-weight: bold;
 }
 
+.green.pwc{
+    color:rgb(82, 114, 19);
+    font-weight:bold;
+}
 
 .ingredients-cont{
     display: flex;
@@ -55,6 +73,10 @@ h1#zucchini {
   display: block;
   width: 400px;
   height: 495px;
+}
+
+img.pwc{
+  height: 470px;
 }
 
 .slogan{
