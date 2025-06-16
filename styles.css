@@ -39,6 +39,13 @@ h1#pesto {
     font-style: italic;
 }
 
+h1#shakshuka {
+    color:rgb(234, 61, 8);
+    font-weight:bold;
+    text-align: center;
+    font-style: italic;
+}
+
 .orange{
     color:orange;
     font-weight: bold;
@@ -46,6 +53,11 @@ h1#pesto {
 
 .green.pwc{
     color:rgb(82, 114, 19);
+    font-weight:bold;
+}
+
+.red.ss{
+    color:rgb(234, 61, 8);
     font-weight:bold;
 }
 
